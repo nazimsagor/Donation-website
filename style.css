@@ -1,0 +1,218 @@
+body {
+    font-family: 'Bitter', serif;
+    font-family: 'Finlandica', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    margin: 0%;
+
+
+}
+
+section {
+    height: 100vh;
+    text-align: center;
+}
+
+.top-banner {
+    background-image: url(images/donation\ 16.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.intro-section h1 {
+    font-size: 90px;
+    font-weight: 900;
+}
+
+.intro-section {
+    padding-top: 130px;
+    font-size: 25px;
+
+    color: rgb(253, 229, 229);
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(244, 105, 105);
+    padding: 20px 40px;
+    border-radius: 8px;
+    color: rgb(253, 229, 229);
+    font-size: 30px;
+
+    font-weight: 800;
+}
+
+.donate-section {
+    padding-top: 150px;
+    color: #707070;
+    font-size: 25px;
+
+}
+
+.headline {
+    color: black;
+    font-size: 60px;
+    font-weight: 1000;
+}
+
+hr {
+    width: 58%;
+}
+
+
+.donate-section h3 {
+    border: 2px solid rgb(255, 255, 255);
+    background-color: #FAFAFA;
+    padding: 60px 40px;
+    border-radius: 20px;
+    display: inline-block;
+    font-size: 40px;
+}
+
+#donate-taka {
+    background-color: #FFEEEE;
+    border-radius: 20px;
+    border: 2px solid red;
+
+}
+
+.donation-plan {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.donation-plan-work {
+    color: #707070;
+    font-size: 25px;
+    padding-bottom: 70px;
+}
+
+.donate-plan-box {
+    display: inline-block;
+    width: 25%;
+    height: 352px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    text-align: left;
+    padding: 25px;
+    padding-top: 70px;
+    margin: 20px;
+
+
+}
+
+.donate-plan-box img {
+    width: 20%;
+}
+
+.donate-plan-box h2 {
+    font-size: 30px;
+    font-weight: 900;
+
+}
+
+.donate-plan-box p {
+    font-size: 20px;
+    color: #707070;
+}
+
+.upcoming-event-box {
+    display: inline-block;
+    width: 25%;
+    height: 500px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 0px;
+    text-align: center;
+    background-color: #fae8e8;
+    margin: 20px;
+
+}
+
+.upcoming-event-box img {
+
+    width: 100%;
+}
+
+.upcoming-event-box h2 {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.upcoming-event-box p {
+    color: #707070;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.event-information {
+    font-size: 25px;
+    color: #707070;
+}
+
+.contact {
+    font-size: 25px;
+    color: #707070;
+
+
+}
+
+.contact-button {
+    padding-top: 110px;
+    background-color: #FFF4D6;
+    border: 1px solid rgb(255, 255, 255);
+    height: 200px;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 100px;
+
+
+}
+
+.contact-email {
+    font-size: 25px;
+    height: 20px;
+    font-weight: 500;
+    background-color: rgb(210, 214, 212);
+    border: 2px solid rgb(210, 214, 212);
+    border-radius: 20px 0 0 20px;
+    padding: 30px 80px 30px 20px;
+    margin-right: 0px;
+
+}
+
+.contact a {
+    font-size: 25px;
+    font-weight: 200;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(244, 105, 105);
+    border-radius: 0 20px 20px 0;
+    padding: 26px 60px 26px 60px;
+    margin-right: 0px;
+
+
+}
+
+
+
+footer {
+    padding-top: 30px;
+    background-color: #0B0D17;
+    color: white;
+    text-align: center;
+    height: 200px;
+}
+
+footer h1 {
+    color: #FF5959;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer p {
+    color: #c7d6e8;
+    font-size: 20px;
+}
