@@ -167,8 +167,6 @@ hr {
     width: 60%;
     margin-left: 20%;
     margin-top: 100px;
-
-
 }
 
 .contact-email {
@@ -179,7 +177,8 @@ hr {
     border: 2px solid rgb(210, 214, 212);
     border-radius: 20px 0 0 20px;
     padding: 30px 80px 30px 20px;
-    margin-right: 0px;
+
+
 
 }
 
@@ -190,9 +189,8 @@ hr {
     color: white;
     background-color: rgb(244, 105, 105);
     border-radius: 0 20px 20px 0;
-    padding: 26px 60px 26px 60px;
-    margin-right: 0px;
-
+    padding: 25px 60px 26px 60px;
+    margin-left: -15px;
 
 }
 
